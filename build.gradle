@@ -16,6 +16,7 @@ application {
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
     implementation "no.tornado:tornadofx:$tornadofx_version"
+    implementation project('sp-api')
     testImplementation "org.jetbrains.kotlin:kotlin-test-junit"
 }
 

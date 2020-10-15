@@ -1,6 +1,6 @@
-package com.example.view
+package city.windmill.view
 
-import com.example.Styles
+import city.windmill.Styles
 import tornadofx.*
 
 class MainView : View("Hello TornadoFX") {

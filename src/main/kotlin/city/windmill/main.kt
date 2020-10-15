@@ -1,7 +1,7 @@
-package com.example
+package city.windmill
 
 import tornadofx.launch
 
 fun main() {
-    launch<MyApp>()
+    launch<SellerPanel>()
 }

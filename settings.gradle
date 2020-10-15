@@ -1,2 +1,3 @@
-rootProject.name = 'tornadofx-gradle-project'
-
+rootProject.name = 'seller-panel'
+include ':sp-api'
+project(':sp-api').projectDir = new File('./SP-API/sp-api-cl')

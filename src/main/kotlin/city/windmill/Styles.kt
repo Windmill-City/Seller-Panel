@@ -1,4 +1,4 @@
-package com.example
+package city.windmill
 
 import javafx.scene.text.FontWeight
 import tornadofx.Stylesheet

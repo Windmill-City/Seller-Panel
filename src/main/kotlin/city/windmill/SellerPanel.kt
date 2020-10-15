@@ -1,6 +1,6 @@
-package com.example
+package city.windmill
 
-import com.example.view.MainView
+import city.windmill.view.MainView
 import tornadofx.App
 
-class MyApp: App(MainView::class, Styles::class)
+class SellerPanel: App(MainView::class, Styles::class)
