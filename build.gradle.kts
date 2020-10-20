@@ -13,7 +13,7 @@ repositories {
 }
 
 application {
-    mainClassName = "com.example.MainKt"
+    mainClassName = "city.windmill.MainKt"
 }
 
 javafx {
